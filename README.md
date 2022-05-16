@@ -17,7 +17,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonseok77&langs_count=8)](https://github.com/wonseok77)
 
 💻 DataScientist
+
 🎓 GyeongsangNationalUniv.  Industial system engineering(2015.03 ~ 2021.02)
+
 📌 E-mail : qkdl7717@gmail.com
 
 # Activity
