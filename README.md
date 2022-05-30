@@ -5,6 +5,7 @@
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
 
 <details>
 <summary>Sub Skills</summary>
