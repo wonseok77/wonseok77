@@ -2,8 +2,8 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
-![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 
 <details>
