@@ -82,9 +82,6 @@
 10| 창업융복합경진대회 | 2019.11.05. | 경상대학교 LINC+ 사업단장상 | 우수상
 
 ### 자격증
-- 빅데이터분석기사
-- (ADSP) 데이터분석준전문가
-- (SQLD) SQL개발자
 <img src = "https://user-images.githubusercontent.com/104615420/176157443-5cfec7f0-8d10-44bc-a404-776fe6e8f03e.JPG" width="70%" height="50%">
 
 ### 어학
