@@ -26,6 +26,8 @@
 
 📌 E-mail : qkdl7717@gmail.com
 
+:newspaper:
+
 
 
 # Activity
