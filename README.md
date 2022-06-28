@@ -85,6 +85,7 @@
 - 빅데이터분석기사
 - (ADSP) 데이터분석준전문가
 - (SQLD) SQL개발자
+<img src = "https://user-images.githubusercontent.com/104615420/176157443-5cfec7f0-8d10-44bc-a404-776fe6e8f03e.JPG" width="30%" height="30%">
 
 ### 어학
 - 토익(750~ 진행중)
