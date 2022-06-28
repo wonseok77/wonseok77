@@ -94,7 +94,9 @@
 <details>
         <summary>수료증보기</summary>
         <p></p>
-<img src = "https://user-images.githubusercontent.com/104615420/176169085-b0c9afcc-ebc7-477f-a860-44651535c919.JPG" width="70%" height="50%">
+        <span style="color: #0000FF">
+        <img src = "https://user-images.githubusercontent.com/104615420/176169085-b0c9afcc-ebc7-477f-a860-44651535c919.JPG" width="70%" height="50%">
+        </span>
 </details>
 
 - [K-digital] 빅데이터 전문가 양성과정(2022.04.26~)
