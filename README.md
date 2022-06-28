@@ -92,7 +92,7 @@
 
 ### 교육이력
 <details>
-        <summary>수료이력</summary>
+        <summary>수료증보기</summary>
         <p></p>
 <img src = "https://user-images.githubusercontent.com/104615420/176169085-b0c9afcc-ebc7-477f-a860-44651535c919.JPG" width="70%" height="50%">
 </details>
