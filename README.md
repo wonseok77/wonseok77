@@ -28,7 +28,6 @@
 
 📰 Certification : 빅데이터분석기사, SQLD(SQL개발자), ADSP(데이터분석준전문가)
 
- **[📘](https://drive.google.com/file/d/1eBf27YCy4DBjCKNo9_sbSDEt_fnoiKLe/view?usp=sharing)**
 
 # Activity
 ### 경력
@@ -48,7 +47,7 @@
     - 역할 : ProjectManager(팀장)
 
 - 소방차 출동 최적 경로 기반 대구 소방차 출동로 취약 지역 빅데이터 분석
-    - 분석 대쉬보드 : **[Clickhere](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)**
+    - 분석 대쉬보드 : **[📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)**
     - 의뢰 기관 : 대구광역시 소방청
     - 수행 기관 : 대구디지털산업진흥원
     - 수행 기간 : 2021.09 ~ 2021.10
@@ -145,3 +144,4 @@
     - 산업통계, 산업통계1, 추가적 통계 지식
     - 어떤 언어든 빠르게 학습 할 수 있도록 프로그래밍 코드 작성 능력 연습
     - 백준랭크, 클린코딩교재 등으로 연습
+ **[📘](https://drive.google.com/file/d/1eBf27YCy4DBjCKNo9_sbSDEt_fnoiKLe/view?usp=sharing)**
