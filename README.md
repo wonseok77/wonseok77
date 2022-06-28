@@ -28,7 +28,7 @@
 
 📰 Certification : 빅데이터분석기사, SQLD(SQL개발자), ADSP(데이터분석준전문가)
 
-:blue_book:
+ **[📘](https://drive.google.com/file/d/1eBf27YCy4DBjCKNo9_sbSDEt_fnoiKLe/view?usp=sharing)**
 
 # Activity
 ### 경력
