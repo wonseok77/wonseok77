@@ -112,13 +112,17 @@
 
 ### 사회 활동
 
-<img src = https://user-images.githubusercontent.com/104615420/176163995-357e479a-1f26-4f3d-bf81-c93ae4321a41.JPG width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/176163995-357e479a-1f26-4f3d-bf81-c93ae4321a41.JPG" width="70%" height="50%">
 
 
 - 창업동아리 회장
     - 동아리 주제 : 경상대학교 최우수 창업동아리 APLUSES 모의창업 및 경진대회 활동
     - 수행 기간 : 2019.01 ~ 2020.12
     - 성과 : 2019 총동아리연합회 동아리평가 전체 동아리 중 1위
+    - <details>
+<summary><img src = "https://user-images.githubusercontent.com/104615420/176165272-91ca1ed9-b81b-4151-8eae-0623987cd6ec.jpg" width="70%" height="50%">
+</summary>
+<p></p>
 - 총동아리연합회 창업분과 분과장
     - 분과장 업무 : 창업분과 타 동아리들의 의견 수렴 및 조율 후 총동아리연합회 회의에 대표자 자격으로 참석
     - 수행 기간 : 2019.01 ~ 2019.12
