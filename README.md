@@ -84,7 +84,7 @@
 <img src = "https://user-images.githubusercontent.com/104615420/176162480-d6fada32-989b-422c-b940-fe4085192693.JPG" width="90%" height="50%">
 
 ### 자격증
-<img src = "https://user-images.githubusercontent.com/104615420/176157443-5cfec7f0-8d10-44bc-a404-776fe6e8f03e.JPG" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/176170606-2dbc2fe0-ed89-4b3f-a693-01ad31b82f62.JPG" width="70%" height="50%">
 
 ### 어학
 - 토익(750~ 진행중)
