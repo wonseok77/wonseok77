@@ -85,7 +85,6 @@
 - 빅데이터분석기사
 - (ADSP) 데이터분석준전문가
 - (SQLD) SQL개발자
--  **[Clickhere](file:///C:/Users/admin/Downloads/4.Brightness%20is.pdf)**
 
 ### 어학
 - 토익(750~ 진행중)
