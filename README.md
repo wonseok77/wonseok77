@@ -26,7 +26,7 @@
 
 📌 E-mail : qkdl7717@gmail.com
 
-:blue_book:
+📘
 
 # Activity
 ### 경력
