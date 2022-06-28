@@ -111,6 +111,10 @@
         - GIS : QGIS, Geoda, mapshaper
 
 ### 사회 활동
+
+<img src = https://user-images.githubusercontent.com/104615420/176163995-357e479a-1f26-4f3d-bf81-c93ae4321a41.JPG width="70%" height="50%">
+
+
 - 창업동아리 회장
     - 동아리 주제 : 경상대학교 최우수 창업동아리 APLUSES 모의창업 및 경진대회 활동
     - 수행 기간 : 2019.01 ~ 2020.12
