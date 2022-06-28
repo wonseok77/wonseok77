@@ -25,6 +25,7 @@
 🎓 GyeongsangNationalUniv.  Industial system engineering(2015.03 ~ 2021.02)
 
 📌 E-mail : qkdl7717@gmail.com
+:blue_book:
 
 # Activity
 ### 경력
