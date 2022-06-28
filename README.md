@@ -122,10 +122,9 @@
 <details>
 <summary>성과보기</summary>
 <p></p>
-
 <img src = "https://user-images.githubusercontent.com/104615420/176165272-91ca1ed9-b81b-4151-8eae-0623987cd6ec.jpg" width="30%" height="30%">    
-
 </details>
+
 - 총동아리연합회 창업분과 분과장
     - 분과장 업무 : 창업분과 타 동아리들의 의견 수렴 및 조율 후 총동아리연합회 회의에 대표자 자격으로 참석
     - 수행 기간 : 2019.01 ~ 2019.12
