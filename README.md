@@ -81,7 +81,7 @@
 9| LINC+ 창업노마드경진대회(혼합팀) | 2020.11.20.| 동남권 링크사업단 | 우수상
 10| 창업융복합경진대회 | 2019.11.05. | 경상대학교 LINC+ 사업단장상 | 우수상
 
-<img src = "https://user-images.githubusercontent.com/104615420/176162480-d6fada32-989b-422c-b940-fe4085192693.JPG" width="90%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/176325329-9c9b7631-5071-43ed-9722-5ede5d481797.JPG" width="90%" height="50%">
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/176170606-2dbc2fe0-ed89-4b3f-a693-01ad31b82f62.JPG" width="70%" height="50%">
