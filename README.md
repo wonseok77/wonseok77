@@ -26,7 +26,7 @@
 
 📌 E-mail : qkdl7717@gmail.com
 
-📰 Certification : 빅데이터분석기사, SQLD(SQL Developer), ADSP(Advanced Data Analytics Semi-Professional)
+📰 Certification : 빅데이터분석기사(Engineer BigDataAnalysis), SQLD(SQL Developer), ADSP(Advanced Data Analytics Semi-Professional)
 
 
 # Activity
