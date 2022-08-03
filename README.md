@@ -84,7 +84,7 @@
     - 통계 분석 : 카이제곱 검정, t-test분석
     - 페이지 구성 : 1. 설문조사페이지 2. MBTI별 통계분석 3. 공부방법별 통계분석 4. 전공별 통계분석 5. 추천 및 예측
     
-- 부산광역시 소방 출동 취약지역 분석
+- 부산광역시 소방 출동 취약지역 빅데이터 분석
     - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv2)**
     - 사용 기술 : QGIS, pandas, sklearn, OPEN API, geocoding
     - 목차 구성 : ppt
