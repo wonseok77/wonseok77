@@ -46,6 +46,10 @@
     - 수행 업무 : 대구 북구청 전동보장구 충전소 입지선정모델 데이터 최신화작업(데이터정제, 문서작성, Geocoding, ML, QGIS)
     - 경진대회 출전 : 빅데이터 활용 스마트안전 해커톤 대회, 썸트렌드 소셜 빅데이터 분석 공모전, Global Inovation Festa
     
+- (K-digital) 빅데이터 전문가 양성과정 (2022.04.26 ~ 2022.10.17)
+    - 빅데이터분석 현직자(멘토님)와 협업 프로젝트
+    - 빅데이터분석 전문가를 위한 curriculum = > 나에게는 복습, 보완, 심화의 의미
+    
 ### 프로젝트
 - 공공빅데이터 인턴 실무형 프로젝트
     - 주관 기관 : NIA, 씨에쓰리, 행정안전부
@@ -144,6 +148,60 @@
     - 활용 프로그램
         - Visualization : POWER BI
         - GIS : QGIS, Geoda, mapshaper
+        
+### 스터디(직무 역량 개발)
+- (웹 프레임워크) back-end, front-end
+    - back-end : django, flask, oracle
+    - front-end : html css,bootstrap, java_script, 반응형 웹(모바일환경구동) ,안드로이드 스튜디오 등등
+    - repository : **[Repositories📘](https://github.com/wonseok77/kdigital_django_oracle)**
+    
+- 머신러닝, 딥러닝 기반 심층학습계획
+    - 머신러닝 : **[Repositories📘](https://github.com/wonseok77/kdigital_ML_statistics)**
+        - 다양한 알고리즘 기본 모델 구축능력(코딩으로 구현해낼수 있게)
+        - 하이퍼 파라미터 최적화를 통한 모델 성능 향상
+        - 특성공학을 최대한 다양한 모델에서 다양한 형태로 활용해보고 과적합 및 모델성능 향상시켜보기
+        - 머신러닝 완벽가이드 책 자주 읽기
+        - 코드 자주 리뷰하기
+        - 이미지 분류모델 공부하기
+        - 품질 관련해서 실무에서 활용된다고 한다
+    - 딥러닝
+        - LSTM
+        - CNN
+        - RNN
+        - YOLO
+        - COMPUTER VISION
+        
+ - RDBMS : **[Repositories📘](https://github.com/wonseok77/kdigital_django_oracle)**
+    - 이론
+        - SQLD자격증취득 ==> OK
+    - 실습
+        - Oracle 환경설정
+        - 서브쿼리로 다양한 문제 해결해보기(SQL 코드 작성을 통하여)
+        - JOIN 연산으로 다양한 문제 해결해보기 (SQL 코드 작성 기반)
+        - 서브쿼리를 사용할 때와 JOIN을 사용할 때 차이점 구분하기
+        
+- 데이터 엔지니어링
+    - 하둡 에코시스템 이론공부
+    - 실시간 데이터 처리 기술
+    - (하둡 ,맵리듀스, 스파크 등)
+    
+- 도메인 지식 
+    - (전공) 산업공학 기반 통계, 시스템구축 SW 지식 복습 계획
+    - 산업통계, 산업통계1, 추가적 통계 지식
+        - 파이썬을 활용해서 높은수준까지 통계분석 해보기
+        - repository : **[Repositories📘](https://github.com/wonseok77/kdigital_ML_statistics)**
+    - 품질, 생산기술관련(EOQ모델) 이론공부
+    - JAVA, C#등 객체지향언어 복습
+    - 어떤 언어든 빠르게 학습 할 수 있도록 프로그래밍 코드 작성 능력 연습
+    - 백준랭크, 클린코딩교재 등으로 연습
+    
+ - 코딩테스트
+    - 이것이 취업을위한 코딩테스트다 with python 진도나가기
+    - 백준, 프로그래머, 삼성코딩테스트연습 사이트에서 문제 풀어보기
+    
+- (어학) Business English
+    - (회화) 오픽은 그냥 꾸준히 계속 해보자
+    **[📘](https://drive.google.com/file/d/1eBf27YCy4DBjCKNo9_sbSDEt_fnoiKLe/view?usp=sharing)**
 
 ### 사회 활동
 
@@ -173,20 +231,4 @@
 - 온라인 판매 프로젝트
     - 주제 : ebay에 상품을 등록하고 해외로 판매
     - 수행 기간 : 2020.10 ~ 2020.11
-
-### 역량 개발 계획
-- (프로그래밍) 웹, 앱 관련 back, front 엔드 지식 공부 계획
-    - 플라스크, 장고, html css, 부트스트랩, 안드로이드 스튜디오 등등
-- (빅데이터) 머신러닝, 딥러닝 기반 심층학습계획
-    - 파이썬 기반 딥러닝 CNN, RNN(LSTM)등 회사 지원 강의 수강예정(1월)
-    - 머신러닝 완벽가이드 반복학습 계획
-    - DB 관련 SQLD 언어 등 DBMS에 관한 지식 학습
-    - 하둡 에코시스템 이론공부
-- (어학) Business English
-    - (해석) 토익 등
-    - (회화) 오픽, 토익스피킹 등
-- (전공) 산업공학 기반 통계, 시스템구축 SW 지식 복습 계획
-    - 산업통계, 산업통계1, 추가적 통계 지식
-    - 어떤 언어든 빠르게 학습 할 수 있도록 프로그래밍 코드 작성 능력 연습
-    - 백준랭크, 클린코딩교재 등으로 연습
- **[📘](https://drive.google.com/file/d/1eBf27YCy4DBjCKNo9_sbSDEt_fnoiKLe/view?usp=sharing)**
+    
