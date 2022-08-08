@@ -116,9 +116,9 @@
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/176170606-2dbc2fe0-ed89-4b3f-a693-01ad31b82f62.JPG" width="70%" height="50%">
-- 빅데이터분석기사(Engineer BigDataAnalysis)
-- SQLD(SQL Developer)
-- ADSP(Advanced Data Analytics Semi-Professional)
+- 빅데이터분석기사(Engineer BigDataAnalysis) <br>
+- SQLD(SQL Developer) <br>
+- ADSP(Advanced Data Analytics Semi-Professional) <br>
 
 ### 어학
 - 토익(750~ 진행중)
