@@ -159,7 +159,7 @@
     - front-end : html css,bootstrap, java_script, 반응형 웹(모바일환경구동) ,안드로이드 스튜디오 등등
     - repository : **[Repositories📘](https://github.com/wonseok77/kdigital_django_oracle)**
     
-- 머신러닝, 딥러닝 기반 심층학습계획
+- 머신러닝, 딥러닝 기반 심층학습
     - 머신러닝 : **[Repositories📘](https://github.com/wonseok77/kdigital_ML_statistics)**
         - 교차검정 제대로 코드작성 해보기
         - 다양한 알고리즘 기본 모델 구축능력(코딩으로 구현해낼수 있게)
@@ -170,7 +170,7 @@
         - 이미지 분류모델 공부하기
         - 품질 관련해서 실무에서 활용된다고 한다
         - (참고서적 : 혼자공부하는 머신러닝 & 딥러닝)
-    - 딥러닝(책추천)
+    - 딥러닝(책추천)(예정)
         - LSTM
         - CNN
         - RNN
@@ -187,7 +187,7 @@
         - JOIN 연산으로 다양한 문제 해결해보기 (SQL 코드 작성 기반)
         - 서브쿼리를 사용할 때와 JOIN을 사용할 때 차이점 구분하기
         
-- 데이터 엔지니어링
+- 데이터 엔지니어링(예정)
     - 하둡 에코시스템 이론공부
     - 실시간 데이터 처리 기술
     - (하둡 ,맵리듀스, 스파크 등)
