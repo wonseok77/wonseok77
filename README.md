@@ -176,7 +176,7 @@
         - RNN
         - YOLO
         - COMPUTER VISION
-        - 
+        - GNN
         
  - RDBMS : **[Repositories📘](https://github.com/wonseok77/kdigital_django_oracle)**
     - 이론
@@ -207,6 +207,7 @@
  - 코딩테스트
     - 이것이 취업을위한 코딩테스트다 with python 진도나가기
     - 백준, 프로그래머, 삼성코딩테스트연습 사이트에서 문제 풀어보기
+    - 파이썬으로 프로그램 만들기 : PyQt5 <- 이건 외국꺼, Tkinter <- 대중적으로 많이쓰는거
     
 - (어학) Business English
     - (회화) 오픽은 그냥 꾸준히 계속 해보자
