@@ -171,7 +171,7 @@
         - 이미지 분류모델 공부하기
         - 품질 관련해서 실무에서 활용된다고 한다
         - (참고서적 : 혼자공부하는 머신러닝 & 딥러닝)
-    - 딥러닝(책추천)(예정)
+    - 딥러닝 : **[Repositories📘](https://github.com/wonseok77/kdigital_deeplearning.git)**
         - LSTM
         - CNN
         - RNN
