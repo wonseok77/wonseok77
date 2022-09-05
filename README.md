@@ -123,8 +123,7 @@
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
 
 ### 어학
-- 토익(750~ 진행중)
-- 오픽(IM2~ 업그레이드 예정)
+- 오픽(IH)
 
 ### 교육이력
 <details>
