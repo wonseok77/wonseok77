@@ -123,7 +123,7 @@
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
 
 ### 어학
-- 오픽(IH)
+- OPIC : IH
 
 ### 교육이력
 <details>
