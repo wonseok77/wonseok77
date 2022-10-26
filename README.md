@@ -166,15 +166,7 @@
     
 - 머신러닝, 딥러닝 기반 심층학습
     - 머신러닝 : **[Repositories📘](https://github.com/wonseok77/kdigital_ML_statistics)**
-        - 교차검정 제대로 코드작성 해보기
-        - 다양한 알고리즘 기본 모델 구축능력(코딩으로 구현해낼수 있게)
-        - 하이퍼 파라미터 최적화를 통한 모델 성능 향상
-        - 특성공학을 최대한 다양한 모델에서 다양한 형태로 활용해보고 과적합 및 모델성능 향상시켜보기
-        - 머신러닝 완벽가이드 책 자주 읽기
-        - 코드 자주 리뷰하기
-        - 이미지 분류모델 공부하기
-        - 품질 관련해서 실무에서 활용된다고 한다
-        - (참고서적 : 혼자공부하는 머신러닝 & 딥러닝)
+
     - 딥러닝 : **[Repositories📘](https://github.com/wonseok77/kdigital_deeplearning.git)**
         - LSTM
         - CNN
@@ -204,11 +196,6 @@
     - 산업통계, 산업통계1, 추가적 통계 지식
         - 파이썬을 활용해서 높은수준까지 통계분석 해보기
         - repository : **[Repositories📘](https://github.com/wonseok77/kdigital_ML_statistics)**
-    - 품질, 생산기술관련(EOQ모델) 이론공부
-    - JAVA, C#등 객체지향언어 복습
-    - 어떤 언어든 빠르게 학습 할 수 있도록 프로그래밍 코드 작성 능력 연습
-    - 백준랭크, 클린코딩교재 등으로 연습
-    
  - 코딩테스트
     - 이것이 취업을위한 코딩테스트다 with python 진도나가기
     - 백준, 프로그래머, 삼성코딩테스트연습 사이트에서 문제 풀어보기
@@ -217,7 +204,6 @@
 ### 사회 활동
 
 <img src = "https://user-images.githubusercontent.com/104615420/176163995-357e479a-1f26-4f3d-bf81-c93ae4321a41.JPG" width="70%" height="50%">
-
 
 - 최우수 공모전 동아리APLUSES 회장
     - 동아리 주제 : 경상대학교 최우수 공모전동아리 APLUSES 모의창업 및 경진대회 활동
