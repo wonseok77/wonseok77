@@ -65,6 +65,9 @@
 
 <br>
 
+### 어학
+- (ENG) OPIC : IH
+<br>
 ### 경력
 - (DIP)대구디지털산업진흥원 빅데이터활용센터 인턴(2021.09.06 ~ 2022.02.28)
     - 수행 프로젝트 : 소방차 출동 최적 경로 기반 대구 소방차 출동로 취약 지역 빅데이터 분석, 평화산업 자동차 부품 발주량 예측 프로젝트
@@ -130,12 +133,6 @@
     - 사용 기술 : pandas, numpy, matplotlib, seaborn
 
 
-
-
-
-
-### 어학
-- (ENG) OPIC : IH
 
 ### 교육이력/
 <img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
