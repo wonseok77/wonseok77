@@ -138,22 +138,17 @@
 - (ENG) OPIC : IH
 
 ### 교육이력/
-<details>
-        <summary>수료증보기</summary>
-        <p></p>
-        <span style="color: #0000FF">
-        <img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
-        </span>
-</details>
+<img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
 - 최우수 공모전 동아리APLUSES 회장
-    - 동아리 주제 : 경상대학교 최우수 공모전동아리 APLUSES 모의창업 및 경진대회 활동
-    - 수행 기간 : 2019.01 ~ 2020.12
-    - 성과 : 2019 총동아리연합회 동아리평가 전체 동아리 중 1위
+    - 동아리 주제 : 경상대학교 최우수 공모전동아리 APLUSES 모의창업 및 경진대회 활동 <br>
+    - 수행 기간 : 2019.01 ~ 2020.12 <br>
+    - 성과 : 2019 총동아리연합회 동아리평가 전체 동아리 중 1위 <br>
         <details>
         <summary>성과보기</summary>
         <p></p>
         <img src = "https://user-images.githubusercontent.com/104615420/176166679-d6ee3d9f-91b1-44ac-8076-862d1364084a.JPG" width="40%" height="30%">    
         </details>
+        
 - GPP 해외기업탐방
     - 탐방국가 : 미국
     - 탐방주제 : 공유경제플랫폼 서비스 기업인 리프트와 교통국 해외기업탐방
