@@ -27,7 +27,6 @@
 
 
 
-
 # Profile
 
 💻 DataScientist
@@ -57,6 +56,14 @@
 9| LINC+ 창의노마드경진대회(혼합팀) | 2020.11.20.| 동남권 링크사업단 | 우수상
 10| 창의융복합경진대회 | 2019.11.05. | 경상대학교 LINC+ 사업단장상 | 우수상
 
+### 자격증
+<img src = "https://user-images.githubusercontent.com/104615420/199817653-2eeda03e-1b1c-454a-a6bd-194194a71cf4.png" width="70%" height="50%">
+- 빅데이터분석기사(Engineer BigDataAnalysis) <br>
+- SQLD(StructureQueryLanguage Developer) <br>
+- ADSP(Advanced Data Analytics Semi-Professional) <br>
+- MOS Expert(Microsoft office spcialist Expert) <br>
+
+<br>
 
 ### 경력
 - (DIP)대구디지털산업진흥원 빅데이터활용센터 인턴(2021.09.06 ~ 2022.02.28)
@@ -125,11 +132,7 @@
 
 
 
-### 자격증
-<img src = "https://user-images.githubusercontent.com/104615420/176170606-2dbc2fe0-ed89-4b3f-a693-01ad31b82f62.JPG" width="70%" height="50%">
-- 빅데이터분석기사(Engineer BigDataAnalysis) <br>
-- SQLD(StructureQueryLanguage Developer) <br>
-- ADSP(Advanced Data Analytics Semi-Professional) <br>
+
 
 ### 어학
 - (ENG) OPIC : IH
