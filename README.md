@@ -61,7 +61,7 @@
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - SQLD(StructureQueryLanguage Developer) <br>
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
-- MOS Expert(Microsoft office spcialist Expert) <br>
+- MOS Expert(Microsoft Office Spcialist Expert) <br>
 
 <br>
 
