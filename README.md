@@ -41,7 +41,7 @@
 # Activity
 ### 수상내역
 
-<img src = "https://user-images.githubusercontent.com/104615420/199817017-8e5e40bb-695a-4640-847f-7ce544a27189.png" width="90%" height="60%">
+<img src = "https://user-images.githubusercontent.com/104615420/199819091-3c6300c3-b970-4065-b8d7-b0946a121621.png" width="90%" height="60%">
 
 번호 | 수상명 | 수상일자 | 수상기관(단체) | 수상내역 
 --|--|--|--|---
@@ -57,7 +57,7 @@
 10| 창의융복합경진대회 | 2019.11.05. | 경상대학교 LINC+ 사업단장상 | 우수상
 
 ### 자격증
-<img src = "https://user-images.githubusercontent.com/104615420/199817653-2eeda03e-1b1c-454a-a6bd-194194a71cf4.png" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/199819098-2075869b-40f8-4dca-a991-3e3a5d96a598.jpg" width="70%" height="50%">
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - SQLD(StructureQueryLanguage Developer) <br>
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
@@ -142,7 +142,7 @@
         <summary>수료증보기</summary>
         <p></p>
         <span style="color: #0000FF">
-        <img src = "https://user-images.githubusercontent.com/104615420/176169085-b0c9afcc-ebc7-477f-a860-44651535c919.JPG" width="70%" height="50%">
+        <img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
         </span>
 </details>
 
