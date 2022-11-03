@@ -139,6 +139,8 @@
 
 ### 교육이력/
 <img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
+
+
 - 최우수 공모전 동아리APLUSES 회장 <br>
     - 동아리 주제 : 경상대학교 최우수 공모전동아리 APLUSES 모의창업 및 경진대회 활동 <br>
     - 수행 기간 : 2019.01 ~ 2020.12 <br>
