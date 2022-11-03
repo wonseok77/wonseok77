@@ -137,7 +137,7 @@
 
 
 
-### 교육이력/
+### 사회활동/교육이력
 <img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
 
 
