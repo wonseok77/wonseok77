@@ -27,7 +27,6 @@
 </details>
 
 
-
 # Profile
 
 💻 DataScientist
