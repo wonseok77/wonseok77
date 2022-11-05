@@ -142,7 +142,7 @@
     - 수행 기간 : 2019.01 ~ 2020.12 <br>
     - 성과 : 2019 총동아리연합회 동아리평가 전체 동아리 중 1위 <br>
         <details>
-        <summary>성과보기</summary>
+        <summary></summary>
         <p></p>
         <img src = "https://user-images.githubusercontent.com/104615420/176166679-d6ee3d9f-91b1-44ac-8076-862d1364084a.JPG" width="40%" height="30%">    
         </details>
