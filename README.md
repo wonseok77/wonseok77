@@ -135,7 +135,7 @@
 
 
 ### 사회활동/교육이력
-<img src = "https://user-images.githubusercontent.com/104615420/199819109-c8b0c30e-5fac-4c54-b21b-956c35744436.png" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/200107063-426402a3-f5f0-4284-bbe3-40613150b893.png" width="70%" height="50%">
 
 
 - 최우수 공모전 동아리APLUSES 회장 <br>
