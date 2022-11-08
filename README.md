@@ -144,7 +144,7 @@
         <details>
         <summary></summary>
         <p></p>
-        <img src = "https://user-images.githubusercontent.com/104615420/176166679-d6ee3d9f-91b1-44ac-8076-862d1364084a.JPG" width="40%" height="30%">    
+        <img src = "https://user-images.githubusercontent.com/104615420/176166679-d6ee3d9f-91b1-44ac-8076-862d1364084a.JPG1" width="40%" height="30%">    
         </details>
         
 - GPP 해외기업탐방
