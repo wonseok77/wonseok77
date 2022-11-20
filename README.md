@@ -65,7 +65,10 @@
 <br>
 
 ### 어학
+
+<img src = "https://user-images.githubusercontent.com/104615420/202918357-9a9c484c-761e-460f-b04c-3f1c9ab2f980.jpg" width="70%" height="50%">
 - (ENG) OPIC : IH
+
 <br>
 
 
