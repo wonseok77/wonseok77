@@ -35,7 +35,7 @@
 
 📌 E-mail : qkdl7717@gmail.com
 
-📰 Portfolio : **[PDF📘](https://drive.google.com/file/d/1WzTBeGW3WtJtzTRtIC1OHIBsCJutX4fL/view?usp=sharing)**
+📰 Portfolio : **[PDF📘](https://drive.google.com/file/d/1znbaxPwm5ImCRBQQSQVGhK7t9FBT1HkF/view?usp=sharing)**
 
 # Activity
 ### 수상내역
