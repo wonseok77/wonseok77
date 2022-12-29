@@ -28,6 +28,7 @@
 
 
 # Profile
+🏬 KT DataSystem
 
 💻 DataScientist
 
