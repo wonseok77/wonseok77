@@ -29,7 +29,7 @@
 
 
 # Profile
-🏬 KT DataSystems
+🏬 KoreaTelecom DataSystems
 
 💻 DataScientist
 
