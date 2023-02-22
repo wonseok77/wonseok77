@@ -10,7 +10,7 @@
 
 <details>
 <summary>Sub Skills</summary>
-<p></p>
+<p></p>  
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)  
 
