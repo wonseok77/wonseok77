@@ -7,14 +7,17 @@
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
+
 <details>
 <summary>Sub Skills</summary>
 <p></p>
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)  
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+
 
 </details>
 <br>
