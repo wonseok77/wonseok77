@@ -1,36 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2E77BC&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-
+### Language
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
+
+### Tools & Frame work
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
+![django]<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 
-<details>
-<summary>Sub Skills</summary>
-<p></p>  
-    
+### Learning
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 
 
-</details>
-<br>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 <details>
 <summary>Sub Skills</summary>
-<p></p>
+<p></p>  
+![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </details>
+<br>
 
 
 # Profile
