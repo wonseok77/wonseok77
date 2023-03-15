@@ -9,7 +9,7 @@
 ### Tools & Frame work
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
-![django]<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 
 ### Learning
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
@@ -22,7 +22,7 @@
 <details>
 <summary>Sub Skills</summary>
 <p></p>  
-![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)  
+(https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)  
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
