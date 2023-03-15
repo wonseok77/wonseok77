@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2E77BC&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-### Language
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 
-### Tools & Frame work
+### Tools & Frame works
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
