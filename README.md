@@ -44,7 +44,7 @@
 # Activity
 ### 수상내역
 
-<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="90%" height="60%">
+<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="80%" height="60%">
 
 번호 | 수상명 | 수상일자 | 수상기관(단체) | 수상내역 
 --|--|--|--|---
