@@ -60,7 +60,7 @@
 10| 창의융복합경진대회 | 2019.11.05. | OO대학교 LINC+ 사업단장상 | 우수상
 
 ### 자격증
-<img src = "https://user-images.githubusercontent.com/104615420/225340311-40e48f92-5f1c-4bc0-a471-094c7958fd9a.png" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="70%" height="50%">
 - 데이터 이쿠 코어 디자이너(Dataiku Core Designer) <br>
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - SQLD(StructureQueryLanguage Developer) <br>
