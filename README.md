@@ -31,13 +31,13 @@
 
 
 # Profile
-🏬 KoreaTelecom DataSystems
+🏬 KoreaTelecom DataSystems - Digital Transformation BU, AI/Digital Transformation Business Department, Data Business Team
 
 💻 DataScientist
 
 🎓 Industial system engineering(2015.03 ~ 2021.02)
 
-📌 E-mail : qkdl7717@gmail.com
+📌 E-mail : wonseok.jang@kt.com
 
 📰 Portfolio : **[PDF📘](https://drive.google.com/file/d/1znbaxPwm5ImCRBQQSQVGhK7t9FBT1HkF/view?usp=sharing)**
 
