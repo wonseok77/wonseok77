@@ -39,7 +39,7 @@
 
 📌 E-mail : wonseok.jang@kt.com
 
-📰 Portfolio : **[PDF📘](https://drive.google.com/file/d/1znbaxPwm5ImCRBQQSQVGhK7t9FBT1HkF/view?usp=sharing)**
+📰 Portfolio : **[PDF📘](https://drive.google.com/file/d/1_zmgJ8UlXkAA-EKAWFrRRkzQy7iOf5Vx/view?usp=sharing)**
 
 # Activity
 ### 수상내역
