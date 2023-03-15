@@ -61,6 +61,7 @@
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/199819098-2075869b-40f8-4dca-a991-3e3a5d96a598.jpg" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/225339339-dbe68201-d639-48fb-9302-d077ae0dc9ab.png" width="70%" height="50%">
 - 데이터 이쿠 코어 디자이너(Dataiku Core Designer) <br>
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - SQLD(StructureQueryLanguage Developer) <br>
