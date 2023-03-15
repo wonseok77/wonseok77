@@ -61,6 +61,7 @@
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/199819098-2075869b-40f8-4dca-a991-3e3a5d96a598.jpg" width="70%" height="50%">
+- 데이터이쿠 코어 디자이너(Dataiku Core Designer) <br>
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - SQLD(StructureQueryLanguage Developer) <br>
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
