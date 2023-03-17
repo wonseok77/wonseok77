@@ -61,11 +61,11 @@
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="70%" height="50%">
-- 데이터이쿠 코어 디자이너(Dataiku Core designer) <br>
-- 빅데이터 분석기사(Engineer BigDataAnalysis) <br>
-- SQLD(StructureQueryLanguage Developer) <br>
-- ADSP(Advanced Data Analytics Semi-Professional) <br>
-- MOS Expert(Microsoft Office Spcialist Expert) <br>
+- 데이터이쿠 코어 디자이너 (Dataiku Core designer) <br>
+- 빅데이터 분석기사 (Engineer BigDataAnalysis) <br>
+- SQLD (StructureQueryLanguage Developer) <br>
+- ADSP (Advanced Data Analytics Semi-Professional) <br>
+- MOS Expert (Microsoft Office Spcialist Expert) <br>
 
 <br>
 
