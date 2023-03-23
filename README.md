@@ -7,13 +7,13 @@
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 
 ### Tools & Frame works
+![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)  
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 
 ### Learning
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
-![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
@@ -61,7 +61,8 @@
 
 ### 자격증
 <img src = "https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="70%" height="50%">
-- 데이터이쿠 코어 디자이너 (Dataiku Core designer) <br>
+- 데이터이쿠 머신러닝 실무자 (Dataiku ML Practitioner) <br>
+- 데이터이쿠 코어 디자이너 (Dataiku Core Designer) <br>
 - 빅데이터 분석기사 (Engineer BigDataAnalysis) <br>
 - SQLD (StructureQueryLanguage Developer) <br>
 - ADSP (Advanced Data Analytics Semi-Professional) <br>
