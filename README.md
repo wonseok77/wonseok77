@@ -4,7 +4,9 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
+
 
 ### Tools & Frame works
 ![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)
@@ -14,7 +16,6 @@
 
 ### Learning
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 
