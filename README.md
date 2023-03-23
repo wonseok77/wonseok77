@@ -12,12 +12,13 @@
 ![Dataiku](https://img.shields.io/badge/-Dataiku-2AB1AC?style=flat-square&logo=Dataiku&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-ffcd00.svg?style=flat-square&logo=PowerBI&logoColor=000000)
+![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 
 ### Learning
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+
 
 
 <details>
