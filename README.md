@@ -33,7 +33,7 @@
 
 
 # Profile
-🏬 KoreaTelecom DataSystems - Digital Transformation BU, AI/Digital Transformation Business Department, Data Business Team
+🏬 KT DS - DX사업본부 AI/DX 사업담당 
 
 💻 DataScientist
 
