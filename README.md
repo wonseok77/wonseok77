@@ -62,12 +62,16 @@
 10| 창의융복합경진대회 | 2019.11.05. | OO대학교 LINC+ 사업단장상 | 우수상
 
 ### 자격증
-<img src = "https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="70%" height="50%">
+<img src = "https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="70%" height="50%">  
+
+
 - 데이터이쿠 MLOps 실무자 (Dataiku MLOps Practitioiner) <br>
 - 데이터이쿠 머신러닝 실무자 (Dataiku ML Practitioner) <br>
 - 데이터이쿠 개발자 (Dataiku Developer) <br>
 - 데이터이쿠 고급 디자이너 (Dataiku Advanced Designer) <br>
 - 데이터이쿠 코어 디자이너 (Dataiku Core Designer) <br>
+
+
 - 빅데이터 분석기사 (Engineer BigDataAnalysis) <br>
 - SQLD (StructureQueryLanguage Developer) <br>
 - ADSP (Advanced Data Analytics Semi-Professional) <br>
