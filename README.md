@@ -33,7 +33,7 @@
 
 
 # Profile
-🏬 KT DS - DX사업본부 AI/DX사업담당 데이터사업팀
+🏬 KT DS - DX사업본부 AI/DX솔루션담당 데이터사업팀
 
 💻 DataScientist
 
