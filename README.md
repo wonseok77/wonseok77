@@ -99,7 +99,7 @@
     
     
 ### 프로젝트
-- 세라젬 고객분석 기반 구매확률 예측
+- 세라젬 고객분석 기반 구매확률 예측 프로젝트 
     - 수행 기간 : 2023.05.09 ~ 2023.05.23
     - 사용 기술 : ML(RandomForest Classifier, Multi layer perceptron), seaborn, matplotlib, pandas, numpy, sklearn, GridSerchCV, stratified Kfold 등
     - 수행 인원 : 2명 
