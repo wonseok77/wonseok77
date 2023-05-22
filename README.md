@@ -99,8 +99,12 @@
     
     
 ### 프로젝트
+- 세라젬 고객분석 기반 구매확률 예측
+    - 수행 기간 : 2023.05.09 ~ 2023.05.23
+    - 사용 기술 : ML(RandomForest Classifier, Multi layer perceptron), seaborn, matplotlib, pandas, numpy, sklearn, GridSerchCV, stratified Kfold 등
+    - 수행 인원 : 2명 
 - 스마트폰을 활용한 실시간 ORING 머신비전 품질검사 시스템
-    - 수행 기간 : 2022.11.03 ~ 진행중
+    - 수행 기간 : 2022.11.03 ~ 2022.11.13
     - 프로젝트 설명 : 품질검사의 간편성, 활용성, 유연성 증가를 위한 YOLOv5를 활용한 스마트폰 ORING 불량분류 시스템 개발
     - 사용 기술 : YOLOv5, ivCAM, pytorch, Roboflow, python in colab, Jupyter lab
     - 수행 인원 : 안성현, 장원석
