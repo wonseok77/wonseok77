@@ -99,8 +99,11 @@
     
     
 ### 프로젝트
+- CJ대한통운 차세대 정보계 구축 프로젝트 비즈니스 모니터링 파트
+    - 수행 기간 : 2023.07.27 ~
+    - 사용 기술 : DBeaver, IBM DataStage, Apache Superset, yellow bricks
 - 세라젬(Ceragem) 고객분석 기반 구매확률 예측 프로젝트 수행
-    - 수행 기간 : 2023.05.08 2023.05.22
+    - 수행 기간 : 2023.05.08 ~ 2023.05.22
     - 사용 기술 : ML(RandomForest Classifier, Multi layer perceptron), seaborn, matplotlib, pandas, numpy, sklearn, GridSerchCV, stratified Kfold 등
     - 수행 인원 : 2명 
 - 스마트폰을 활용한 실시간 ORING 머신비전 품질검사 시스템
