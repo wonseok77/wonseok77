@@ -99,6 +99,10 @@
     
     
 ### 프로젝트
+- 질병관리청 통합 EDW 빅데이터 플랫폼 구축 프로젝트
+    - ETL data pipeline 구축
+- KT alpha DW 전환 프로젝트
+    - SP전환
 - CJ대한통운 차세대 정보계 구축 프로젝트 비즈니스 모니터링 파트
     - 수행 기간 : 2023.07.27 ~
     - 사용 기술 : DBeaver, IBM DataStage, Apache Superset, yellow bricks
