@@ -114,10 +114,21 @@
 ---
     
 ## 📊 Projects
+### kt m&s 중고폰 판매 AI 등급판정 서비스 PoC
+    - 추진 개요 : '굿바이' 키오스크에서 VisionAI 를 통한 자동화된 중고폰 검사 시스템 도입을 통해 검사 결과 처리속도와 정확성을 향상하여 전체 대리점에 적용하는 것을 목적으로 함
+    - 주요 서비스 구현 내용
+        - Vision AI 모델
+            - Yolo v8 오픈소스 객체 인식 모델
+            - MS Azure OpenAI
+        - Frontend
+            - Streamlit
+
 ### 질병관리청 통합 EDW 빅데이터 플랫폼 구축 프로젝트
     - ETL data pipeline 구축
+    
 ### KT alpha DW 전환 프로젝트
-    - SP전환
+    - SP(Stored Procedure) 전환
+    
 ### CJ대한통운 차세대 정보계 구축 프로젝트 비즈니스 모니터링 파트
     - 수행 기간 : 2023.07.27 ~
     - 사용 기술 : DBeaver, IBM DataStage, Apache Superset, yellow bricks
