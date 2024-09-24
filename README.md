@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer,Scientist&descAlignY=62&descAlign=62)
 
 
 
