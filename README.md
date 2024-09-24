@@ -184,7 +184,7 @@
 
 
 ## 🎓 Social Activities & Education
-<img src="https://user-images.githubusercontent.com/104615420/200107063-426402a3-f5f0-4284-bbe3-40613150b893.png" width="70%" height="50%">
+<img src="https://user-images.githubusercontent.com/104615420/200107063-426402a3-f5f0-4284-bbe3-40613150b893.png" width="50%" height="50%">
 
 ---
 
