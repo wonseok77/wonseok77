@@ -181,20 +181,20 @@
         - (5장) 제주 산업 제조현장 디지털화 방안
 
 ### TOY 프로젝트
--  개인별 맞춤 어학시험 종류 추천 및 점수 예측
-    - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv3)**
-    - 사용 기술 : django, Oracle, sklearn, pandas, numpy, html, css, bootstrap
-    - 통계 분석 : 카이제곱 검정, t-test분석
-    - 페이지 구성 : 1. 설문조사페이지 2. MBTI별 통계분석 3. 공부방법별 통계분석 4. 전공별 통계분석 5. 추천 및 예측
+    -  개인별 맞춤 어학시험 종류 추천 및 점수 예측
+        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv3)**
+        - 사용 기술 : django, Oracle, sklearn, pandas, numpy, html, css, bootstrap
+        - 통계 분석 : 카이제곱 검정, t-test분석
+        - 페이지 구성 : 1. 설문조사페이지 2. MBTI별 통계분석 3. 공부방법별 통계분석 4. 전공별 통계분석 5. 추천 및 예측
     
-- 부산광역시 소방 출동 취약지역 빅데이터 분석
-    - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv2)**
-    - 사용 기술 : QGIS, pandas, sklearn, OPEN API, geocoding
-    - 목차 구성 : ppt
+    - 부산광역시 소방 출동 취약지역 빅데이터 분석
+        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv2)**
+        - 사용 기술 : QGIS, pandas, sklearn, OPEN API, geocoding
+        - 목차 구성 : ppt
 
-- 포항 대중교통 데이터 분석
-    - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv1)**
-    - 사용 기술 : pandas, numpy, matplotlib, seaborn
+    - 포항 대중교통 데이터 분석
+        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv1)**
+        - 사용 기술 : pandas, numpy, matplotlib, seaborn
 
 
 
