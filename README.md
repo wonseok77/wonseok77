@@ -62,7 +62,7 @@
 
 ## 🏆 Awards
 
-<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="80%" height="60%">
+<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="40%" height="40%">
 
 | No | Title | Date | Organization | Description |
 |----|-------|------|--------------|-------------|
@@ -95,7 +95,7 @@
 ---
 
 ## 🌍 Language Skills
-![Language Skills](https://user-images.githubusercontent.com/104615420/202918357-9a9c484c-761e-460f-b04c-3f1c9ab2f980.jpg)
+<img src="https://user-images.githubusercontent.com/104615420/202918357-9a9c484c-761e-460f-b04c-3f1c9ab2f980.jpg" width="50%">
 - (ENG) OPIC: IH
 
 ---
