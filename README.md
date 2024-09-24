@@ -162,7 +162,7 @@
 
 | **항목**          | **내용**                                                                                                                                                                                                                                             |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **분석 대시보드** | [click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)                                |
+| **분석 대시보드**  | [click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)                                |
 | **의뢰 기관**     | 대구광역시 소방청                                                                                                                                                                                                                                     |
 | **수행 기관**     | 대구디지털산업진흥원                                                                                                                                                                                                                                 |
 | **수행 기간**     | 2021.09 ~ 2021.10                                                                                                                                                                                                                                      |
@@ -187,20 +187,14 @@
         - (5장) 제주 산업 제조현장 디지털화 방안
 
 ### TOY 프로젝트
-    -  개인별 맞춤 어학시험 종류 추천 및 점수 예측
-        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv3)**
-        - 사용 기술 : django, Oracle, sklearn, pandas, numpy, html, css, bootstrap
-        - 통계 분석 : 카이제곱 검정, t-test분석
-        - 페이지 구성 : 1. 설문조사페이지 2. MBTI별 통계분석 3. 공부방법별 통계분석 4. 전공별 통계분석 5. 추천 및 예측
-    
-    - 부산광역시 소방 출동 취약지역 빅데이터 분석
-        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv2)**
-        - 사용 기술 : QGIS, pandas, sklearn, OPEN API, geocoding
-        - 목차 구성 : ppt
+## 📊 Projects
 
-    - 포항 대중교통 데이터 분석
-        - 분석 산출물 : **[Repositories📘](https://github.com/wonseok77/kdigital_toyproject_lv1)**
-        - 사용 기술 : pandas, numpy, matplotlib, seaborn
+| **프로젝트**                             | **분석 산출물**                                                      | **사용 기술**                                           | **기타**                                             |
+|-----------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
+| 개인별 맞춤 어학시험 종류 추천 및 점수 예측 | **[Repositories 📘](https://github.com/wonseok77/kdigital_toyproject_lv3)** | Django, Oracle, sklearn, Pandas, Numpy, HTML, CSS, Bootstrap | 통계 분석: 카이제곱 검정, t-test 분석<br>페이지 구성: 1. 설문조사 페이지 2. MBTI별 통계 분석 3. 공부 방법별 통계 분석 4. 전공별 통계 분석 5. 추천 및 예측 |
+| 부산광역시 소방 출동 취약지역 빅데이터 분석  | **[Repositories 📘](https://github.com/wonseok77/kdigital_toyproject_lv2)** | QGIS, Pandas, sklearn, OPEN API, Geocoding         | 목차 구성: PPT                                      |
+| 포항 대중교통 데이터 분석               | **[Repositories 📘](https://github.com/wonseok77/kdigital_toyproject_lv1)** | Pandas, Numpy, Matplotlib, Seaborn                  | -                                                 |
+
 
 
 
