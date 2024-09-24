@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=62&descAlign=62)
+
 
 ## 🚀 About Me
 🏬 **KT DS** - DX사업본부 AI/DX솔루션담당 데이터사업팀  
