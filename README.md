@@ -160,7 +160,9 @@
 
 ### 소방차 출동 최적 경로 기반 대구 소방차 출동로 취약 지역 빅데이터 분석
 
-    - **분석 대시보드**: [click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)  
+    -
+    - **분석 대시보드**: 
+[click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)  
     - **의뢰 기관**: 대구광역시 소방청  
     - **수행 기관**: 대구디지털산업진흥원  
     - **수행 기간**: 2021.09 ~ 2021.10  
