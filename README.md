@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer,Scientist&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wonseok&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer, Scientist&descAlignY=62&descAlign=62)
 
 
 
@@ -160,12 +160,12 @@
 
 ### 소방차 출동 최적 경로 기반 대구 소방차 출동로 취약 지역 빅데이터 분석
 
-- **분석 대시보드**: [click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)  
-- **의뢰 기관**: 대구광역시 소방청  
-- **수행 기관**: 대구디지털산업진흥원  
-- **수행 기간**: 2021.09 ~ 2021.10  
-- **사용 기술**: 머신러닝 (sklearn ensemble, GridSearchCV), QGIS, 파이썬 (데이터 정제, osmnx 라이브러리), POWER BI, Geoda (공간자기상관분석)  
-- **활용 데이터**: 출동 데이터, 신호현시 데이터, 교차로 및 횡단보도, 불법 주정차, 추정 교통량, 도로폭, 평균 속도, 대구광역시 shp 파일 데이터 등
+    - **분석 대시보드**: [click 📘](https://app.powerbi.com/view?r=eyJrIjoiM2UwNzZhMTEtZGE1NC00OWE2LWEyZTMtODRjMzJhZWViZjViIiwidCI6IjE0ZjVkMzljLTA0NTQtNDcyOC05YTMxLTRhMzliZTJjZGMzOSJ9&pageName=ReportSection66d3f38cc6675c892989)  
+    - **의뢰 기관**: 대구광역시 소방청  
+    - **수행 기관**: 대구디지털산업진흥원  
+    - **수행 기간**: 2021.09 ~ 2021.10  
+    - **사용 기술**: 머신러닝 (sklearn ensemble, GridSearchCV), QGIS, 파이썬 (데이터 정제, osmnx 라이브러리), POWER BI, Geoda (공간자기상관분석)  
+    - **활용 데이터**: 출동 데이터, 신호현시 데이터, 교차로 및 횡단보도, 불법 주정차, 추정 교통량, 도로폭, 평균 속도, 대구광역시 shp 파일 데이터 등
 
 
 
