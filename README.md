@@ -86,6 +86,7 @@
 ## 🎓 Certifications
 <img src="https://user-images.githubusercontent.com/104615420/225340713-b7938229-ac88-44e6-aef9-829e72f9c106.png" width="50%">
 
+- AWS Meachine Learning - Specialty
 - 데이터이쿠 MLOps 실무자 (Dataiku MLOps Practitioner)  
 - 데이터이쿠 머신러닝 실무자 (Dataiku ML Practitioner)  
 - 데이터이쿠 개발자 (Dataiku Developer)  
