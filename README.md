@@ -62,7 +62,7 @@
 
 ## 🏆 Awards
 
-<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="40%" height="40%">
+<img src = "https://user-images.githubusercontent.com/104615420/202918389-895bfa91-c9ec-48fb-a617-7305468b54d0.png" width="70%" height="60%">
 
 | No | Title | Date | Organization | Description |
 |----|-------|------|--------------|-------------|
