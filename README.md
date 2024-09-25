@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 🏬 **KT DS** - DX사업본부 AI/DX솔루션담당 데이터사업팀  
-💻 **Data Scientist**  
+💻 **Data Engineer & Scientist**  
 🎓 **Industrial System Engineering** (2015.03 ~ 2021.02)  
 📧 **Email**: [wonseok.jang@kt.com](mailto:wonseok.jang@kt.com)  
 📰 **Portfolio**: [PDF 📘](https://drive.google.com/file/d/1_zmgJ8UlXkAA-EKAWFrRRkzQy7iOf5Vx/view?usp=sharing)
