@@ -108,6 +108,17 @@
 ---
     
 ## 📊 Projects
+
+### kt ds 로봇통합관제플랫폼 구축
+    - 추진 개요 : 서로 다른 이기종 로봇들을 하나의 플랫폼에서 관제, 제어 할 수 있는 서비스 개발
+    - 주요 서비스 구현 내용
+        - Frontend : react
+        - backend : python Fast API
+        - ROS(Robot Operation System) : ROS2 foxy
+        - DB : MySQL
+        - IDE : Cursor
+
+
 ### kt m&s 중고폰 판매 AI 등급판정 서비스 PoC
     - 추진 개요 : '굿바이' 키오스크에서 VisionAI 를 통한 자동화된 중고폰 검사 시스템 도입을 통해 검사 결과 처리속도와 정확성을 향상하여 전체 대리점에 적용하는 것을 목적으로 함
     - 주요 서비스 구현 내용
@@ -118,7 +129,10 @@
             - Streamlit
 
 ### 질병관리청 통합 EDW 빅데이터 플랫폼 구축 프로젝트
-    - ETL data pipeline 구축
+    - ETL data pipeline 구축 (TeraStream)
+    - DC 프로그램 개발
+    - 배치 스케쥴링 프로그램 개발
+    - 운영자 & 사용자 메뉴얼 작성
     
 ### KT alpha DW 전환 프로젝트
     - SP(Stored Procedure) 전환
@@ -126,6 +140,7 @@
 ### CJ대한통운 차세대 정보계 구축 프로젝트 비즈니스 모니터링 파트
     - 수행 기간 : 2023.07.27 ~
     - 사용 기술 : DBeaver, IBM DataStage, Apache Superset, yellow bricks
+    
 ### 세라젬(Ceragem) 고객분석 기반 구매확률 예측 프로젝트 수행
     - 수행 기간 : 2023.05.08 ~ 2023.05.22
     - 사용 기술 : ML(RandomForest Classifier, Multi layer perceptron), seaborn, matplotlib, pandas, numpy, sklearn, GridSerchCV, stratified Kfold 등
